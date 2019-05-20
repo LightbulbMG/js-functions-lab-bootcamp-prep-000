@@ -20,7 +20,7 @@ function holidayCountdown(holidays, days) {
 }
 
 
-happyHolidays()
-happyHolidaysTo('Mercedes')
-happyHolidayTo('birthday','Nia')
+happyHolidays();
+happyHolidaysTo('Mercedes');
+happyHolidayTo('birthday','Nia');
 holidayCountdown('Valentines day','75');
